@@ -1,0 +1,19 @@
+{
+  "run_name": "gemma3_prompt_experiment_v1",
+  "model": "google/gemma-3-4b-it",
+  "n_posts": 30,
+  "n_prompt_conditions": 5,
+  "n_valid_judged_responses": 150,
+  "reference_condition": "default",
+  "files": {
+    "sampled_posts": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_sampled_posts.csv",
+    "responses_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_responses_all.csv",
+    "responses_jsonl": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_responses_all.jsonl",
+    "judgments_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_judgments_all.csv",
+    "scored_responses_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_scored_responses.csv",
+    "condition_summary_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_condition_summary.csv",
+    "paired_changes_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_paired_changes_vs_default.csv",
+    "attack_rates_csv": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_attack_rates.csv",
+    "manifest": "/content/outputs/gemma3_prompt_experiment_v1/gemma3_prompt_experiment_v1_manifest.json"
+  }
+}

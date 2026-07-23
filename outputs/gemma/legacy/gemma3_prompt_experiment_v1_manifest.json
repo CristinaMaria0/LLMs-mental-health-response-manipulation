@@ -1,0 +1,22 @@
+{
+  "run_name": "gemma3_prompt_experiment_v1",
+  "model_id": "google/gemma-3-4b-it",
+  "model_label": "gemma3_4b_it",
+  "seed": 7,
+  "n_posts": 30,
+  "reference_condition": "default",
+  "attack_conditions": [],
+  "do_sample": false,
+  "max_new_tokens": 220,
+  "prompt_conditions": [
+    "default",
+    "supportive",
+    "attack_persona",
+    "attack_injection",
+    "attack_detachment"
+  ],
+  "output_dir": "/content/outputs/gemma3_prompt_experiment_v1",
+  "created_at_utc": "2026-06-22T09:51:58.927956+00:00",
+  "torch_version": "2.11.0+cu128",
+  "cuda_available": true
+}
