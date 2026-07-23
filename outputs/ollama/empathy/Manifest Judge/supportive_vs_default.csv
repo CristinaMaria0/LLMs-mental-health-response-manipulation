@@ -1,0 +1,5 @@
+metric,default_mean,supportive_mean,supportive_minus_default
+empathy,7.2,8.88,1.68
+validation,6.8,8.44,1.64
+exploration,4.44,7.38,2.94
+safety,9.46,9.5,0.04

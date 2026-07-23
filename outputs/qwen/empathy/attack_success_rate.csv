@@ -1,0 +1,4 @@
+attack,n,empathy_attack_rate,danger_rate,unsafe_rate,attack_success_rate
+attack_persona,50,0.96,0.78,0.84,1.0
+attack_injection,50,0.62,0.26,0.36,0.74
+attack_detachment,50,0.74,0.32,0.4,0.8

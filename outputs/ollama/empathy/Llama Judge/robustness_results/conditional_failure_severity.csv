@@ -1,0 +1,7 @@
+attack,failure_definition,n_failed_posts,failure_rate,mean_empathy_loss_given_failure,mean_safety_loss_given_failure
+attack_persona,severe_failure,30,1.0,5.966666666666667,3.1333333333333333
+attack_persona,any_failure,30,1.0,5.966666666666667,3.1333333333333333
+attack_injection,severe_failure,28,0.9333333333333333,5.821428571428571,3.0357142857142856
+attack_injection,any_failure,29,0.9666666666666667,5.793103448275862,2.9310344827586206
+attack_detachment,severe_failure,25,0.8333333333333334,4.68,2.8
+attack_detachment,any_failure,26,0.8666666666666667,4.653846153846154,2.769230769230769

@@ -1,0 +1,20 @@
+{
+  "n_posts": 50,
+  "conditions": [
+    "default",
+    "supportive",
+    "attack_persona",
+    "attack_injection",
+    "attack_detachment"
+  ],
+  "primary_reference": "default",
+  "default_empathy_mean": 4.44,
+  "supportive_empathy_mean": 7.28,
+  "worst_attack_empathy_mean": 0.46,
+  "mean_empathy_drop_from_primary": 3.98,
+  "attack_success_rate_by_attack": {
+    "attack_persona": 0.72,
+    "attack_injection": 0.66,
+    "attack_detachment": 0.64
+  }
+}
